@@ -1,0 +1,10 @@
+Holdout metrics (Random Forest)\nAccuracy: 0.9697\nPrecision: 0.9390\nRecall: 0.6876\nF1: 0.7939\nROC AUC: 0.9660\nAUC-PR: 0.8617\n\nClassification report:\n              precision    recall  f1-score   support
+
+           0       0.97      1.00      0.98     18300
+           1       0.94      0.69      0.79      1700
+
+    accuracy                           0.97     20000
+   macro avg       0.96      0.84      0.89     20000
+weighted avg       0.97      0.97      0.97     20000
+\nConfusion matrix:\n[[18224    76]
+ [  531  1169]]
