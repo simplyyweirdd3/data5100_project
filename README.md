@@ -1,6 +1,6 @@
-# Predicting Lifestyle-Related Health Outcomes Using Machine Learning
-DATA 5100 Final Project  
-Ruman Sidhu & Devlin Hoang
+## Predicting Lifestyle-Related Health Outcomes Using Machine Learning
+# DATA 5100 Final Project  
+# Ruman Sidhu & Devlin Hoang
 
 ## Project Overview
 This project uses machine learning models to predict three health outcomes: diabetes, cardiovascular disease, and stroke. We built separate workflows for each dataset and also evaluated a combined dataset to see whether broader population diversity improves prediction.
