@@ -11,22 +11,22 @@ We compared Logistic Regression and Random Forest models and evaluated them usin
 README.md
 
 data/
-    cardio_train.csv
-    diabetes_prediction_dataset.csv
-    healthcare-dataset-stroke-data.csv
+cardio_train.csv
+diabetes_prediction_dataset.csv
+healthcare-dataset-stroke-data.csv
 
 Notebooks/
-    Analysis code.ipynb
+Analysis code.ipynb
 
 Outputs/
-    diabetes outcome.png
-    heatmap.png
-    latest_metrics.txt
-    rf_calibration.png
-    rf_roc.png
+diabetes outcome.png
+heatmap.png
+latest_metrics.txt
+rf_calibration.png
+rf_roc.png
 
 src/
-    diabetes_random_forest.py
+diabetes_random_forest.py
 
 ## How to Run the Notebook
 1. Keep all datasets inside the data folder.  
